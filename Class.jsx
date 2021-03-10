@@ -5,7 +5,7 @@ class Class extends Component{
  
     
 state={
-        name:"chandanikhanesha",
+        name:"chandani",
         age:20,
         study:this.props.study,
         surname:this.props.surname
